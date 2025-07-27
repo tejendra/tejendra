@@ -12,47 +12,42 @@
 </div>
 
 ## 🧠 Philosophy
-<div align="center">
+<div align="left">
   
-  I don't get attached to code.
-  
-  Every line should be easy to delete later because old code becomes dead weight.
-  
-  I'd rather write more code with clear intent than less code with clever tricks.
-  
-  Planning, readability, and documentation are how I show empathy for the next developer, even if that developer is me.
+Code is a visitor.
+It enters, serves, and must someday leave.
+I write it clearly, so its purpose is known — even when I am gone.
+
+I do not chase cleverness.
+I chase understanding.
+
+Messy code is not a burden.
+It is a garden — overgrown, waiting to be tended.
+I prune, not to impress, but to leave it lighter for the next hands.
+
+I plan like a carpenter:
+Measure twice, cut once.
+The blueprint matters more than the hammer.
+
+Documentation is not extra.
+It is the echo of thought —
+a quiet guide for those who follow.
+
+I use tools with intention.
+Frameworks change. Clarity endures.
+
+When the screen turns off, the mind stays on.
+I think better when I step away from the code.
   
 </div>
 
-## 🔧 How I Work
-<div align="center">
-    
-  **🧽 I like messy codebases**  
-  Cleaning them feels like stewardship: a quiet, fulfilling act of care for whoever comes next.
-  
-  **🪚 "Measure twice, cut once."**  
-  Planning prevents wasted effort.
-  
-  **✍️ I write documentation**  
-  Early and often to scale knowledge.
-  
-  **🔤 Readable code > clever code**  
-  Code should be easy to scan, with clear connections to where it runs. If it's confusing then it's not done.
-  
-  **🤖 I use AI as a co-creator**  
-  To move faster from idea to prototype.
-  
-  **📴 I unplug often**  
-  I think better when I step away from the screen.
-  
-</div>
+**Disclaimer**: This philosophy was written with help from AI because it helps me express what I already feel more clearly.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
   <p>I’m quick to learn whatever the work demands (tools, systems, or skills). I don’t cling to specific tools. I use whatever stack the problem calls for, flexibility is a technical skill.</p>
 </div>
-
 
 <div align="center">
 
