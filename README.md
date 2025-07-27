@@ -46,7 +46,7 @@ I think better when I step away from the code.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <p>I’m quick to learn whatever the work demands (tools, systems, or skills). I don’t cling to specific tools. I use whatever stack the problem calls for, flexibility is a technical skill.</p>
+  <p>I’m quick to learn tools, systems, or skills the work demands. I don’t cling to specific tools. I use whatever stack the problem calls for because flexibility is a technical skill.</p>
 </div>
 
 <div align="center">
