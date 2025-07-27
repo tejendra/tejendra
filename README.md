@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Lead Software Engineer at [Raft](https://teamraft.com)**  
+  ### Lead Software Engineer at [Raft](https://teamraft.com) 
   
   *Always perform the work that has to be done without attachment*
   
