@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### Lead Software Engineer at [Raft](https://teamraft.com) 
+  ### Associate Director of AI & Software Engineer at [Kyndryl](https://kyndryl.com) 
   
   *Always perform the work that has to be done without attachment*
   
